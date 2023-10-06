@@ -67,10 +67,3 @@ Contributions are welcome! If you'd like to contribute to this project, please o
 
 - [Lucas Bonanni](https://github.com/lucasbonanni)
 
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at your.email@example.com.
-
-```
-
-Remember to replace placeholders such as `yourusername`, `Your Name`, and `your.email@example.com` with your actual information. You can also add more sections or customize the README to suit your project's specific needs.
